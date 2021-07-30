@@ -13,11 +13,9 @@ Creates a resized and cropped version and a blurred version of any image file, l
 
 ## Usage
 First, give execution permissions, only before first use:
-    <pre>
-    <b>~ $</b> sudo chmod +x process-wallpaper.sh</pre>
+<pre><b>~ $</b> sudo chmod +x process-wallpaper.sh</pre>
 Use:
-    <pre>
-    <b>~ $</b> ./process-wallpaper.sh image_file.jpg</pre>
+<pre><b>~ $</b> ./process-wallpaper.sh image_file.jpg</pre>
 ### Example
 <pre>
 <b>~ $</b> ./process-wallpaper.sh image_file.jpg
