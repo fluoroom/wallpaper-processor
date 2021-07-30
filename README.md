@@ -13,12 +13,14 @@ Creates a resized and cropped version and a blurred version of any image file, l
 
 ## Usage
 First, give execution permissions, only before first use:
-    <pre><b>~$</b> sudo chmod +x process-wallpaper.sh</pre>
+    <pre>
+    <b>~ $</b> sudo chmod +x process-wallpaper.sh</pre>
 Use:
-    <pre><b>~$</b> ./process-wallpaper.sh image_file.jpg</pre>
+    <pre>
+    <b>~ $</b> ./process-wallpaper.sh image_file.jpg</pre>
 ### Example
 <pre>
-<b>~$</b> ./process-wallpaper.sh image_file.jpg
+<b>~ $</b> ./process-wallpaper.sh image_file.jpg
 Loaded <b>image_file.jpg</b>
 Automatically get your resolution? (<b>Y</b>es / <b>N</b>o / default: <b>Yes</b>):y
 Getting resolution from xrandr... 
@@ -30,5 +32,5 @@ Processing <b>with</b> spread.
 Execute? (y/n):y
 Processing...
 Done!
-<b>~$</b>
+<b>~ $</b>
 </pre>
