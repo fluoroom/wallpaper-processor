@@ -11,12 +11,12 @@ Creates a resized and cropped version and a blurred version of any image file, l
 - [`ImageMagick`](https://imagemagick.org/script/download.php)
 
 
-## Usage
+## Usage:
 First, give execution permissions, only before first use:
 <pre><b>~ $</b> sudo chmod +x process-wallpaper.sh</pre>
 Use:
 <pre><b>~ $</b> ./process-wallpaper.sh image_file.jpg</pre>
-### Example
+### Example:
 <pre>
 <b>~ $</b> ./process-wallpaper.sh image_file.jpg
 Loaded <b>image_file.jpg</b>
