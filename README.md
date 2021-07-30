@@ -2,7 +2,7 @@
 Creates a resized and cropped version and a blurred version of any image file, letting you choose the blur level and opting for pixel spread.
 ## Features:
 - **Interactive:** no command arguments, just answer 3 questions.
-- **Automatic resolution detection** (`xrandr` is required for using this feature).
+- **Automatic resolution detection**.
 - **Intelligent crop** to your aspect ratio, no stretching.
 - Pixel spread (that grainy effect).
 
